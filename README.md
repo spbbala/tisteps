@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Clean architecture,
+Bloc pattern,
+Pagination,
+Animations
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
